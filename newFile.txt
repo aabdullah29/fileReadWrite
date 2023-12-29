@@ -1,0 +1,6 @@
+{
+  "MINT_ADDRESS3": "some new3",
+  "MINT_ADDRESS0": "some new0",
+  "MINT_ADDRESS2": "some new2",
+  "MINT_ADDRESS1": "some new1"
+}
